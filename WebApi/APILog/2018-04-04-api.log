@@ -1,0 +1,99 @@
+2018-04-04 09:48:22.2213|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: Schema specified is not valid. Errors: 
+WebApiDataModel.ssdl(2,2) : error 0152: No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+
+
+2018-04-04 09:59:33.2752|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: Schema specified is not valid. Errors: 
+WebApiDataModel.ssdl(2,2) : error 0152: No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+
+
+2018-04-04 10:07:12.3751|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Students/Student/allstudents
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-04 10:07:32.2483|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Students/Student/allstudents
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : 
+Error: The method or operation is not implemented.
+
+
+2018-04-04 10:07:35.9563|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Students/Student/allstudents
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-04 10:08:09.1802|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Students/Student/allstudents
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : 
+Error: The method or operation is not implemented.
+
+
+2018-04-04 10:12:47.7174|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Students/Student/allstudents
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-04 10:30:48.0127|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Students/Student/all
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-04 10:31:22.8292|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Students/Student/all
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-04 11:11:57.3887|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Students/Student/allstudents
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-04 11:12:27.4819|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Students/Student/allstudents
+Token: abc
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-04 11:28:42.7232|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-04 11:29:27.9397|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Students/Student/allstudents
+Token: fe0720b2-3188-4031-8e82-cd4c1952290e
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

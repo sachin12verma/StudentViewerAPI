@@ -1,0 +1,133 @@
+2018-04-03 09:05:07.2103|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: The network path was not found
+
+
+2018-04-03 19:13:27.3350|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Students/Student/allstudents
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-03 19:17:20.8457|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: No connection string named 'StudentViewDBEntities' could be found in the application config file.
+
+
+2018-04-03 19:21:33.2073|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Students/Student/allstudents
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-03 19:23:20.4540|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: No connection string named 'StudentViewDBEntities' could be found in the application config file.
+
+
+2018-04-03 19:25:44.4813|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: No connection string named 'StudentViewDBEntities' could be found in the application config file.
+
+
+2018-04-03 19:28:37.7246|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: Unable to load the specified metadata resource.
+
+
+2018-04-03 19:29:54.8980|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: Unable to load the specified metadata resource.
+
+
+2018-04-03 19:33:34.1456|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: No connection string named 'Entities' could be found in the application config file.
+
+
+2018-04-03 19:34:12.2363|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: No connection string named 'Entities' could be found in the application config file.
+
+
+2018-04-03 19:34:49.3297|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: Unable to load the specified metadata resource.
+
+
+2018-04-03 19:37:12.1573|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: Unable to load the specified metadata resource.
+
+
+2018-04-03 19:47:56.5285|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Students/Student/allstudents
+Controller : WebApi.Controllers.StudentController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-03 19:48:59.6461|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: Unable to load the specified metadata resource.
+
+
+2018-04-03 19:50:22.2223|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: Unable to load the specified metadata resource.
+
+
+2018-04-03 19:57:01.3512|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: Invalid length for a Base-64 char array or string.
+
+
+2018-04-03 20:14:24.3080|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: Unable to load the specified metadata resource.
+
+
